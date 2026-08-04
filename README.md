@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1020-number-of-enclaves) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0994-rotting-oranges) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Matrix
 |  |
@@ -128,10 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
