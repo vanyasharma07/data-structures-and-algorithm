@@ -10,14 +10,17 @@ public:
         // return solve(n, dp);
         if (n <= 2)
         return n;
-        vector<int>dp(n+1, -1);
-        dp[0] = 0;
-        dp[1] = 1;
-        dp[2] = 2;
+        // vector<int>dp(n+1, -1);
+        // dp[0] = 0;
+        int prev1 = 1;
+        int prev2 = 2;
+        int ans = 0;
         for(int i=3 ; i<=n; i++){
-            dp[i] = dp[i-1] + dp[i-2];
+            ans = prev2 + prev1;
+            prev1 = prev2;
+            prev2 = ans;
         }
-        return dp[n];
+        return ans;
 
     }
 };
