@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0146-lru-cache) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0460-lfu-cache](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
@@ -178,12 +179,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0460-lfu-cache) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
