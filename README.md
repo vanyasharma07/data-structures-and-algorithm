@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0460-lfu-cache) |
 ## Design
@@ -221,4 +222,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
