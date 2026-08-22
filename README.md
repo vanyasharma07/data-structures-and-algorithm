@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 ## String
@@ -251,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
