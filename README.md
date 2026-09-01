@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0031-next-permutation) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
