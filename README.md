@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0450-delete-node-in-a-bst](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0130-surrounded-regions) |
 | [0239-sliding-window-maximum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0496-next-greater-element-i) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
@@ -295,4 +298,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
