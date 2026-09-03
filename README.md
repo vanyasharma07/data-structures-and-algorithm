@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0146-lru-cache) |
+| [0229-majority-element-ii](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0460-lfu-cache](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0496-next-greater-element-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0130-surrounded-regions) |
+| [0229-majority-element-ii](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -310,4 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0287-find-the-duplicate-number) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
