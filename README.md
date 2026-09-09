@@ -337,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0785-is-graph-bipartite) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
