@@ -344,4 +344,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0595-big-countries) |
 | [0608-tree-node](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0608-tree-node) |
+| [0610-triangle-judgement](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
