@@ -347,4 +347,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0626-exchange-seats) |
+| [1068-product-sales-analysis-i](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
