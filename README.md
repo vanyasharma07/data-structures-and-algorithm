@@ -353,4 +353,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-find-users-with-valid-e-mails](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1517-find-users-with-valid-e-mails) |
 | [1667-fix-names-in-a-table](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1683-invalid-tweets) |
+| [1757-recyclable-and-low-fat-products](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
