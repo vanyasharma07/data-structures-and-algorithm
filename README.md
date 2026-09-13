@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
 | ------- |
