@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0542-01-matrix) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -389,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0802-find-eventual-safe-states) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
