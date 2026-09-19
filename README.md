@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0416-partition-equal-subset-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0496-next-greater-element-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 ## String
@@ -400,4 +402,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
