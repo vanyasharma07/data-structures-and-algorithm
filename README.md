@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0130-surrounded-regions) |
 | [0229-majority-element-ii](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0239-sliding-window-maximum) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0721-accounts-merge) |
