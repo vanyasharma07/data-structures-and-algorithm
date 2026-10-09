@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0008-string-to-integer-atoi) |
 | [0127-word-ladder](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1021-remove-outermost-parentheses) |
