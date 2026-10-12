@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0069-sqrtx) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0287-find-the-duplicate-number) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -425,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
