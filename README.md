@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1331-rank-transform-of-an-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1331-rank-transform-of-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1331-rank-transform-of-an-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1331-rank-transform-of-an-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1631-path-with-minimum-effort) |
