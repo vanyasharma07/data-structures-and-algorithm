@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
