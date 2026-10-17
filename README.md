@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0130-surrounded-regions) |
+| [0137-single-number-ii](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0239-sliding-window-maximum) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0287-find-the-duplicate-number) |
