@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0231-power-of-two) |
@@ -473,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
