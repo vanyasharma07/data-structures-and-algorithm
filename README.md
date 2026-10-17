@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0069-sqrtx) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0231-power-of-two) |
