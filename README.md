@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1631-path-with-minimum-effort) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1020-number-of-enclaves](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1091-shortest-path-in-binary-matrix) |
