@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0075-sort-colors) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0455-assign-cookies) |
 ## Binary Lifting
