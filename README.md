@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0542-01-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0721-accounts-merge](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0735-asteroid-collision) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
