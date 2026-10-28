@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0287-find-the-duplicate-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0137-single-number-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0239-sliding-window-maximum) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0410-split-array-largest-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
