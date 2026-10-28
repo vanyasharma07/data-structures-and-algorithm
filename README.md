@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0721-accounts-merge) |
+| [0904-fruit-into-baskets](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1331-rank-transform-of-an-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0860-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
