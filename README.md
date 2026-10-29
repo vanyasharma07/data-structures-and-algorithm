@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0435-non-overlapping-intervals) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0137-single-number-ii) |
+| [0179-largest-number](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0229-majority-element-ii) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0008-string-to-integer-atoi) |
 | [0127-word-ladder](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0127-word-ladder) |
+| [0179-largest-number](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0721-accounts-merge) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/vanyasharma07/data-structures-and-algorithm/tree/master/0435-non-overlapping-intervals) |
